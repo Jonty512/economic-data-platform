@@ -1,0 +1,17 @@
+api_sources:
+  world_bank:
+    base_url: "http://api.worldbank.org/v2"
+    format: "json"
+    indicators:
+      - id: "NY.GDP.MKTP.CD"
+        name: "GDP (current US$)"
+      - id: "FP.CPI.TOTL.ZG"
+        name: "Inflation, consumer prices (annual %)"
+    countries: "all"
+    per_page: 500
+
+database:
+  host: "localhost"
+  port: 5432
+  name: "economic_raw"
+  user: "postgres"

@@ -1,0 +1,898 @@
+[
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2015",
+        "value": 19973250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2014",
+        "value": 19505500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2013",
+        "value": 19100750000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2012",
+        "value": 17123500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2011",
+        "value": 14109000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2010",
+        "value": 12047750000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2009",
+        "value": 9670750000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2008",
+        "value": 4418000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2007",
+        "value": 5294750000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2006",
+        "value": 5446750000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2005",
+        "value": 5758250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2004",
+        "value": 5808500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2003",
+        "value": 5730500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2002",
+        "value": 6345250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2001",
+        "value": 6780750000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2000",
+        "value": 6693250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1999",
+        "value": 6861500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1998",
+        "value": 6405250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1997",
+        "value": 8534000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1996",
+        "value": 8557500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1995",
+        "value": 7115000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1994",
+        "value": 6894250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1993",
+        "value": 6567250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1992",
+        "value": 6755000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1991",
+        "value": 8646000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1990",
+        "value": 8788301546.04498,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1989",
+        "value": 8290553535.28012,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1988",
+        "value": 7818774176.83792,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1987",
+        "value": 6744657033.37727,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1986",
+        "value": 6220698246.72927,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1985",
+        "value": 5640137575.00727,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1984",
+        "value": 6355369171.99585,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1983",
+        "value": 7768031181.67262,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1982",
+        "value": 8544060905.16113,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1981",
+        "value": 8015464251.71692,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1980",
+        "value": 6682278300.2622,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1979",
+        "value": 5180102910.1171,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1978",
+        "value": 4353822342.61788,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1977",
+        "value": 4366610468.65438,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1976",
+        "value": 4320576876.79177,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1975",
+        "value": 4373532601.15703,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1974",
+        "value": 3984194614.19552,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1973",
+        "value": 3311043291.61257,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1972",
+        "value": 2679096596.57517,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1971",
+        "value": 2179828710.18738,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1970",
+        "value": 1885168339.10681,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1969",
+        "value": 1748891294.20526,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1968",
+        "value": 1480355354.94474,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1967",
+        "value": 1397715282.06274,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1966",
+        "value": 1282403936.37681,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1965",
+        "value": 1312105393.62448,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1964",
+        "value": 1217759447.00099,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1963",
+        "value": 1160103724.1325,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1962",
+        "value": 1118172225.65019,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1961",
+        "value": 1097206526.43457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "1960",
+        "value": 1053528036.42755,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]

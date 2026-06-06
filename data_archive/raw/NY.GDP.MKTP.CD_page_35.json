@@ -1,0 +1,8002 @@
+[
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1987",
+        "value": 8523160592.61112,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "UZ",
+            "value": "Uzbekistan"
+        },
+        "countryiso3code": "UZB",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2024",
+        "value": 1117972034.22642,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2023",
+        "value": 1115861055.72463,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2022",
+        "value": 1055031360.57356,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2021",
+        "value": 950394006.532514,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2020",
+        "value": 909421043.508407,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2019",
+        "value": 936526267.622513,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2018",
+        "value": 914727908.137793,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2017",
+        "value": 880043284.399407,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2016",
+        "value": 804323576.861028,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2015",
+        "value": 759690180.951654,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2014",
+        "value": 773717010.546445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2013",
+        "value": 758304466.245339,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2012",
+        "value": 747839697.746593,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2011",
+        "value": 770153588.218833,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2010",
+        "value": 670712979.682038,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2009",
+        "value": 592622319.145664,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2008",
+        "value": 590748429.401902,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2007",
+        "value": 516392922.513728,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2006",
+        "value": 439358586.535588,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2005",
+        "value": 394962433.029368,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2004",
+        "value": 364996869.129618,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2003",
+        "value": 314471413.001776,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2002",
+        "value": 262596535.549028,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2001",
+        "value": 257926881.72043,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "2000",
+        "value": 272014627.835262,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1999",
+        "value": 268006972.690296,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1998",
+        "value": 262293410.708334,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1997",
+        "value": 272771209.113662,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1996",
+        "value": 261370044.486614,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1995",
+        "value": 249333250.082507,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1994",
+        "value": 233701301.490486,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1993",
+        "value": 200491853.167847,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1992",
+        "value": 209088824.608438,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1991",
+        "value": 201334169.054441,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1990",
+        "value": 168879207.244148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1989",
+        "value": 154013202.116475,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1988",
+        "value": 158351368.433149,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1987",
+        "value": 139464173.547324,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1986",
+        "value": 126498935.335649,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1985",
+        "value": 131856420.703184,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1984",
+        "value": 144482515.368336,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1983",
+        "value": 117389554.191406,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1982",
+        "value": 114501912.522867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1981",
+        "value": 113781795.82356,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1980",
+        "value": 121185497.569261,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1979",
+        "value": 119258835.335525,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VU",
+            "value": "Vanuatu"
+        },
+        "countryiso3code": "VUT",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2024",
+        "value": 119802963257.783,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2023",
+        "value": 102376526555.948,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2022",
+        "value": 89013255584.7499,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2021",
+        "value": 56614976854.5499,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2020",
+        "value": 42838020721.1995,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2019",
+        "value": 73014084091.3,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2018",
+        "value": 102021093964.682,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2017",
+        "value": 115883275162.586,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2016",
+        "value": 112915034262.314,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2015",
+        "value": 125449241571.391,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2014",
+        "value": 214689614732.719,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2013",
+        "value": 258930655486.37,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2012",
+        "value": 372592062768.06,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2011",
+        "value": 316482190800.364,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2010",
+        "value": 393192354510.653,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2009",
+        "value": 329787628928.472,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2008",
+        "value": 315953388510.678,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2007",
+        "value": 230364012575.687,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2006",
+        "value": 183477522123.894,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2005",
+        "value": 145513489651.872,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2004",
+        "value": 112451400424.964,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2003",
+        "value": 83620628582.1082,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2002",
+        "value": 92893587733.6549,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2001",
+        "value": 122911036746.729,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "2000",
+        "value": 117146466002.661,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1999",
+        "value": 97972842461.5131,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1998",
+        "value": 91336763255.0597,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1997",
+        "value": 85837678559.8324,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1996",
+        "value": 70543211119.099,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1995",
+        "value": 77389487770.0883,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1994",
+        "value": 58418666666.6667,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1993",
+        "value": 60037460783.1941,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1992",
+        "value": 60416519620.0849,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1991",
+        "value": 53453444786.6256,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1990",
+        "value": 48606952194.7752,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1989",
+        "value": 43536709104.0115,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1988",
+        "value": 60226413793.1035,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1987",
+        "value": 48029034482.7586,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1986",
+        "value": 60516123711.3402,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1985",
+        "value": 61965466666.6667,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1984",
+        "value": 59867743467.9335,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1983",
+        "value": 67556279069.7674,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1982",
+        "value": 67736744186.0465,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1981",
+        "value": 66327441860.4651,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1980",
+        "value": 59116511627.907,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1979",
+        "value": 48310930232.5581,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1978",
+        "value": 39316279069.7674,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1977",
+        "value": 36210697674.4186,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1976",
+        "value": 31419534883.7209,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1975",
+        "value": 27464651162.7907,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1974",
+        "value": 26100930232.5581,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1973",
+        "value": 17035581395.3488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1972",
+        "value": 13977727272.7273,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1971",
+        "value": 12986590909.0909,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1970",
+        "value": 11561111111.1111,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1969",
+        "value": 10285111111.1111,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1968",
+        "value": 10034444444.4444,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1967",
+        "value": 9250000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1966",
+        "value": 8781333333.33333,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1965",
+        "value": 8427777777.77778,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1964",
+        "value": 8192413793.10345,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1963",
+        "value": 9608717288.17057,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1962",
+        "value": 8814309884.21165,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1961",
+        "value": 8067267030.61862,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VE",
+            "value": "Venezuela, RB"
+        },
+        "countryiso3code": "VEN",
+        "date": "1960",
+        "value": 7663938303.07171,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2024",
+        "value": 476388230307.175,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2023",
+        "value": 433857681378.291,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2022",
+        "value": 413445230668.578,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2021",
+        "value": 366474752771.009,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2020",
+        "value": 346615738537.796,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2019",
+        "value": 334365270496.667,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2018",
+        "value": 310106478394.659,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2017",
+        "value": 281353605986.903,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2016",
+        "value": 257096001177.982,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2015",
+        "value": 239258328381.741,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2014",
+        "value": 233451469642.519,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2013",
+        "value": 213708811665.34,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2012",
+        "value": 195590661129.249,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2011",
+        "value": 172595049183.925,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2010",
+        "value": 147201173196.979,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2009",
+        "value": 106014659565.214,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2008",
+        "value": 99130304099.1274,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2007",
+        "value": 77414425532.2452,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2006",
+        "value": 66371664817.0436,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2005",
+        "value": 57633255738.1992,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2004",
+        "value": 45427854693.2554,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2003",
+        "value": 39552513231.9169,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2002",
+        "value": 35064105500.8344,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2001",
+        "value": 32685198808.5549,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "2000",
+        "value": 31172518403.3162,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1999",
+        "value": 28683659006.7752,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1998",
+        "value": 27209602050.0452,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1997",
+        "value": 26843700441.5482,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1996",
+        "value": 24657470574.7501,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1995",
+        "value": 20736164458.9505,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1994",
+        "value": 16286433533.3228,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1993",
+        "value": 13180953598.1716,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1992",
+        "value": 9866990236.43587,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1991",
+        "value": 9613369520.41885,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1990",
+        "value": 6471740805.56984,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1989",
+        "value": 6293304974.59403,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1988",
+        "value": 25423812648.5941,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1987",
+        "value": 36658108850.3148,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1986",
+        "value": 26336616250.4397,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1985",
+        "value": 14094687820.7445,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VN",
+            "value": "Viet Nam"
+        },
+        "countryiso3code": "VNM",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2023",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2022",
+        "value": 4672000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2021",
+        "value": 4507000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2020",
+        "value": 4229000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2019",
+        "value": 4121000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2018",
+        "value": 3923000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2017",
+        "value": 3794000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2016",
+        "value": 3798000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2015",
+        "value": 3663000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2014",
+        "value": 3565000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2013",
+        "value": 3738000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2012",
+        "value": 4089000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2011",
+        "value": 4223000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2010",
+        "value": 4324000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2009",
+        "value": 4201000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2008",
+        "value": 4244000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2007",
+        "value": 4784000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2006",
+        "value": 4484000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2005",
+        "value": 4428000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2004",
+        "value": 3797000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2003",
+        "value": 3443000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2002",
+        "value": 3262000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "VI",
+            "value": "Virgin Islands (U.S.)"
+        },
+        "countryiso3code": "VIR",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2024",
+        "value": 13711100000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2023",
+        "value": 17847900000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2022",
+        "value": 19165500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2021",
+        "value": 18109000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2020",
+        "value": 15531700000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2019",
+        "value": 17133500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2018",
+        "value": 16276600000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2017",
+        "value": 16128000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2016",
+        "value": 15405400000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2015",
+        "value": 13972400000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2014",
+        "value": 13989700000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2013",
+        "value": 13515500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2012",
+        "value": 12208400000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2011",
+        "value": 11186100000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2010",
+        "value": 9681500000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2009",
+        "value": 8085700000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2008",
+        "value": 7310400000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2007",
+        "value": 5815700000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2006",
+        "value": 5348300000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2005",
+        "value": 5125700000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2004",
+        "value": 4603100000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2003",
+        "value": 3968000000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2002",
+        "value": 3555800000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2001",
+        "value": 4003700000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "2000",
+        "value": 4313600000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1999",
+        "value": 4271200000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1998",
+        "value": 4067800000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1997",
+        "value": 3759800000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1996",
+        "value": 3409600000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1995",
+        "value": 3282800000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1994",
+        "value": 2843300000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "PS",
+            "value": "West Bank and Gaza"
+        },
+        "countryiso3code": "PSE",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2023",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2018",
+        "value": 21606160663.0318,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2017",
+        "value": 26842229044.5848,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2016",
+        "value": 31317825274.1507,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2015",
+        "value": 42444490073.8555,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2014",
+        "value": 43228585321.3272,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2013",
+        "value": 40415233436.1767,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2012",
+        "value": 35401331609.5916,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2011",
+        "value": 32726417878.391,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2010",
+        "value": 30906749533.221,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2009",
+        "value": 25130278212.5575,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2008",
+        "value": 26910855807.288,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2007",
+        "value": 21650528674.0933,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2006",
+        "value": 19063143369.858,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2005",
+        "value": 16731566717.1888,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2004",
+        "value": 13867634371.4773,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2003",
+        "value": 11777532662.0499,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2002",
+        "value": 10693430511.4664,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2001",
+        "value": 9852990692.98714,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "2000",
+        "value": 9679316770.18633,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1999",
+        "value": 7639325295.88287,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1998",
+        "value": 6322175565.94651,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1997",
+        "value": 6838298530.54911,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1996",
+        "value": 6496163615.66086,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1995",
+        "value": 12796345679.0123,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1994",
+        "value": 28019483763.5304,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1993",
+        "value": 21736802664.4463,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1992",
+        "value": 17959367194.005,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1991",
+        "value": 14665445462.1149,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1990",
+        "value": 12643821568.9626,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "YE",
+            "value": "Yemen, Rep."
+        },
+        "countryiso3code": "YEM",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2024",
+        "value": 25303185342.2511,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2023",
+        "value": 27577956471.244,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2022",
+        "value": 29163782140.4858,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2021",
+        "value": 22096416932.0089,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2020",
+        "value": 18137764930.651,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2019",
+        "value": 23308667781.2258,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2018",
+        "value": 26311507273.6735,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2017",
+        "value": 25873601260.8353,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2016",
+        "value": 20958412538.3093,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2015",
+        "value": 21251216798.7762,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2014",
+        "value": 27141023558.0829,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2013",
+        "value": 28037239462.7142,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2012",
+        "value": 25503060420.026,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2011",
+        "value": 23459515275.5776,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2010",
+        "value": 20265559483.8548,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2009",
+        "value": 15328342303.9575,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2008",
+        "value": 17910858637.9048,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2007",
+        "value": 14056957976.2648,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2006",
+        "value": 12756858899.2812,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2005",
+        "value": 8331870169.14977,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2004",
+        "value": 6221110219.45542,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2003",
+        "value": 4901869764.05957,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2002",
+        "value": 4193850445.42632,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2001",
+        "value": 4094441301.21423,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "2000",
+        "value": 3600632111.41414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1999",
+        "value": 3404284890.5306,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1998",
+        "value": 3537741941.89367,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1997",
+        "value": 4303288479.7086,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1996",
+        "value": 3597220962.00017,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1995",
+        "value": 3806983413.16416,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1994",
+        "value": 3656806165.78848,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1993",
+        "value": 3273505343.85539,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1992",
+        "value": 3182810841.01704,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1991",
+        "value": 3376806697.1218,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1990",
+        "value": 3288381797.32415,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1989",
+        "value": 3994673161.02649,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1988",
+        "value": 3728878148.80792,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1987",
+        "value": 2265250972.34879,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1986",
+        "value": 1664413508.09853,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1985",
+        "value": 2252454500.14896,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1984",
+        "value": 2719518932.99541,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1983",
+        "value": 3321048451.15171,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1982",
+        "value": 3871117092.86676,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1981",
+        "value": 4008126497.36464,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1980",
+        "value": 3884530853.76162,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1979",
+        "value": 3353445378.15126,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1978",
+        "value": 2811032472.93922,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1977",
+        "value": 2515296939.60686,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1976",
+        "value": 2742859262.9794,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1975",
+        "value": 2442672140.947,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1974",
+        "value": 2910981262.10018,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1973",
+        "value": 2434255236.99935,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1972",
+        "value": 1872416680.07912,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1971",
+        "value": 1653259341.29113,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1970",
+        "value": 1788779285.2038,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1969",
+        "value": 1926399230.21087,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1968",
+        "value": 1573739371.13375,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1967",
+        "value": 1340639464.28047,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1966",
+        "value": 1238999504.8958,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1965",
+        "value": 1061199575.94465,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1964",
+        "value": 822639671.273187,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1963",
+        "value": 704339718.545848,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1962",
+        "value": 679279728.55982,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1961",
+        "value": 682359727.329053,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZM",
+            "value": "Zambia"
+        },
+        "countryiso3code": "ZMB",
+        "date": "1960",
+        "value": 698739720.783607,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2024",
+        "value": 41539411516.4448,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2023",
+        "value": 35871779680.6335,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2022",
+        "value": 40757561708.7741,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2021",
+        "value": 41287673690.0771,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2020",
+        "value": 31980334561.3123,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2019",
+        "value": 33357695635.1284,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2018",
+        "value": 34141666666.6667,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2017",
+        "value": 51035657370.5179,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "ZW",
+            "value": "Zimbabwe"
+        },
+        "countryiso3code": "ZWE",
+        "date": "2016",
+        "value": 20559250000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]

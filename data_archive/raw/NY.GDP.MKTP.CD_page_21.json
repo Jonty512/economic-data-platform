@@ -1,0 +1,8002 @@
+[
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1991",
+        "value": 41247791.6364169,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1990",
+        "value": 36534294.7991591,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1989",
+        "value": 37645319.1994276,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1988",
+        "value": 38278810.3176488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1987",
+        "value": 29554412.5328693,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1986",
+        "value": 25993008.7943576,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1985",
+        "value": 26126615.2284866,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1984",
+        "value": 34394167.0416706,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1983",
+        "value": 31000545.7710517,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1982",
+        "value": 32742712.6527597,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1981",
+        "value": 35267489.2425442,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1980",
+        "value": 33157723.1094117,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1979",
+        "value": 34466197.0333233,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1978",
+        "value": 36563964.5510014,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1977",
+        "value": 31335458.7039851,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1976",
+        "value": 33246816.5018414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1975",
+        "value": 44547453.6024265,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1974",
+        "value": 69256488.5160763,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1973",
+        "value": 25645040.4712955,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1972",
+        "value": 15314346.4925323,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1971",
+        "value": 12356134.3838676,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1970",
+        "value": 11560877.2811451,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KI",
+            "value": "Kiribati"
+        },
+        "countryiso3code": "KIR",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2023",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2022",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2021",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2020",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2019",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2018",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2017",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2016",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2015",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2014",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2013",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2012",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2011",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2010",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2009",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2008",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KP",
+            "value": "Korea, Dem. People's Rep."
+        },
+        "countryiso3code": "PRK",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2024",
+        "value": 1875388209406.8,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2023",
+        "value": 1844800934391.54,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2022",
+        "value": 1799363116866.52,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2021",
+        "value": 1942313560965.9,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2020",
+        "value": 1744070276373.34,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2019",
+        "value": 1751045752054.63,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2018",
+        "value": 1824251454306.83,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2017",
+        "value": 1710196756713.17,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2016",
+        "value": 1579150518945.44,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2015",
+        "value": 1539212301135.55,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2014",
+        "value": 1556252422020.44,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2013",
+        "value": 1434669686501.84,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2012",
+        "value": 1335343586437.67,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2011",
+        "value": 1307103477219.1,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2010",
+        "value": 1192830015737.68,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2009",
+        "value": 983065242417.36,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2008",
+        "value": 1091580692542.34,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2007",
+        "value": 1220911904593.06,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2006",
+        "value": 1095175538508.19,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2005",
+        "value": 971740329983.878,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2004",
+        "value": 823251107638.814,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2003",
+        "value": 728516494684.269,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2002",
+        "value": 650014391470.21,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2001",
+        "value": 567564806235.441,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "2000",
+        "value": 597487173479.109,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1999",
+        "value": 515697079289.011,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1998",
+        "value": 397297216492.19,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1997",
+        "value": 589202526424.141,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1996",
+        "value": 631196863758.281,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1995",
+        "value": 586286469400.665,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1994",
+        "value": 479181794216.859,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1993",
+        "value": 405705302846.447,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1992",
+        "value": 366921291824.719,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1991",
+        "value": 340851946803.812,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1990",
+        "value": 292064221388.988,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1989",
+        "value": 254236243100.439,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1988",
+        "value": 205477530605.222,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1987",
+        "value": 152240393645.506,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1986",
+        "value": 119965960795.24,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1985",
+        "value": 103764281280.89,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1984",
+        "value": 99749645088.5994,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1983",
+        "value": 89621208322.3386,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1982",
+        "value": 79921300446.6517,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1981",
+        "value": 74287368087.3467,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1980",
+        "value": 66547970350.6151,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1979",
+        "value": 68083884297.5207,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1978",
+        "value": 52824793388.4297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1977",
+        "value": 39064462809.9174,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1976",
+        "value": 30371074380.1653,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1975",
+        "value": 22126033057.8512,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1974",
+        "value": 19860929976.698,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1973",
+        "value": 14067523813.0386,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1972",
+        "value": 10990490569.7259,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1971",
+        "value": 10005257131.3347,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1970",
+        "value": 9085001793.55852,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1969",
+        "value": 7743940188.95006,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1968",
+        "value": 6167109472.42856,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1967",
+        "value": 4895076717.9993,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1966",
+        "value": 3957064541.39218,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1965",
+        "value": 3141131708.31319,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1964",
+        "value": 3476789681.58031,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1963",
+        "value": 4007692307.69231,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1962",
+        "value": 2826923076.92308,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1961",
+        "value": 2427244760.66918,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KR",
+            "value": "Korea, Rep."
+        },
+        "countryiso3code": "KOR",
+        "date": "1960",
+        "value": 3973069306.93069,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2024",
+        "value": 11197246322.588,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2023",
+        "value": 10468224574.7539,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2022",
+        "value": 9354907646.29785,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2021",
+        "value": 9413408574.4949,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2020",
+        "value": 7717143395.54732,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2019",
+        "value": 7899741278.75198,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2018",
+        "value": 7878762812.27689,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2017",
+        "value": 7180768692.01515,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2016",
+        "value": 6682677289.98994,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2015",
+        "value": 6295848422.71573,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2014",
+        "value": 7074394734.88431,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2013",
+        "value": 6735328609.6594,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2012",
+        "value": 6163484244.63408,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2011",
+        "value": 6341613609.97976,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2010",
+        "value": 5343950556.07185,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2009",
+        "value": 5015894692.97027,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2008",
+        "value": 5181776768.71247,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2007",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2006",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2005",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2004",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2003",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2002",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2001",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "2000",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1999",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1998",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1997",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1996",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1995",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "XK",
+            "value": "Kosovo"
+        },
+        "countryiso3code": "XKX",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2024",
+        "value": 160227273053.334,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2023",
+        "value": 165384407116.233,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2022",
+        "value": 183502046693.878,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2021",
+        "value": 148350671489.144,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2020",
+        "value": 111045470605.715,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2019",
+        "value": 140856394860.529,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2018",
+        "value": 138646316350.727,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2017",
+        "value": 120687539805.505,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2016",
+        "value": 109406674124.652,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2015",
+        "value": 114585555688.511,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2014",
+        "value": 162650450684.725,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2013",
+        "value": 174168116534.844,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2012",
+        "value": 174047662680.041,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2011",
+        "value": 154039231245.856,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2010",
+        "value": 115416245241.742,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2009",
+        "value": 105968691905.415,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2008",
+        "value": 147379737229.753,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2007",
+        "value": 114634043361.692,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2006",
+        "value": 101557330723.423,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2005",
+        "value": 80798630136.9863,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2004",
+        "value": 59439090600.6108,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2003",
+        "value": 47874582231.588,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2002",
+        "value": 38135788413.8276,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2001",
+        "value": 34889559869.8326,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "2000",
+        "value": 37718743480.0751,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1999",
+        "value": 30122365849.2518,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1998",
+        "value": 25943705784.2996,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1997",
+        "value": 30350190704.4361,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1996",
+        "value": 31492373308.7516,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1995",
+        "value": 27186980646.5448,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1994",
+        "value": 24848483838.3838,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1993",
+        "value": 23941391390.7285,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1992",
+        "value": 19858555214.7239,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1991",
+        "value": 11009993703.1474,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1990",
+        "value": 18427777777.7778,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1989",
+        "value": 24313855653.3993,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1988",
+        "value": 20690322152.8945,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1987",
+        "value": 22368704133.6668,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1986",
+        "value": 17903989745.178,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1985",
+        "value": 21445970613.7595,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1984",
+        "value": 21700082752.9369,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1983",
+        "value": 20871081080.1538,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1982",
+        "value": 21577153356.4192,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1981",
+        "value": 25058020338.2535,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1980",
+        "value": 28638868355.9196,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1979",
+        "value": 24749063922.4796,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1978",
+        "value": 15503557496.1916,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1977",
+        "value": 14137406740.5065,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1976",
+        "value": 13132252801.9372,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1975",
+        "value": 12022811620.7867,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1974",
+        "value": 13006948296.2705,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1973",
+        "value": 5408804607.3129,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1972",
+        "value": 4450537925.33189,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1971",
+        "value": 3880392195.40688,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1970",
+        "value": 2873638850.54446,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1969",
+        "value": 2769198892.32044,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1968",
+        "value": 2662798934.88043,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1967",
+        "value": 2441599023.36039,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1966",
+        "value": 2391199043.52038,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1965",
+        "value": 2097199161.12034,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1964",
+        "value": 2071668533.03471,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1963",
+        "value": 1900895856.66293,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1962",
+        "value": 1828107502.79955,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KW",
+            "value": "Kuwait"
+        },
+        "countryiso3code": "KWT",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2024",
+        "value": 17478259659.2625,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2023",
+        "value": 15180842369.4894,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2022",
+        "value": 12134931017.9465,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2021",
+        "value": 9249133946.26531,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2020",
+        "value": 8270468614.24051,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2019",
+        "value": 9371275264.36735,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2018",
+        "value": 8271106235.41552,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2017",
+        "value": 7702938379.42036,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2016",
+        "value": 6813095379.1187,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2015",
+        "value": 6678177511.66313,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2014",
+        "value": 7468102412.68237,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2013",
+        "value": 7335033800.59056,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2012",
+        "value": 6605142884.36215,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2011",
+        "value": 6197765984.28468,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2010",
+        "value": 4794361863.01353,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2009",
+        "value": 4690061380.60253,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2008",
+        "value": 5139958909.17936,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2007",
+        "value": 3802570552.56105,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2006",
+        "value": 2834168889.42019,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2005",
+        "value": 2460246766.41401,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2004",
+        "value": 2211534585.0034,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2003",
+        "value": 1919008090.49641,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2002",
+        "value": 1605643104.73021,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2001",
+        "value": 1525116370.27939,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "2000",
+        "value": 1369688498.06778,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1999",
+        "value": 1249061487.01457,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1998",
+        "value": 1645963749.83146,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1997",
+        "value": 1767864035.71943,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1996",
+        "value": 1827570586.16784,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1995",
+        "value": 1661147035.24388,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1994",
+        "value": 1681780847.41091,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1993",
+        "value": 2026019252.61241,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1992",
+        "value": 2315346942.855,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1991",
+        "value": 2542256424.35069,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1990",
+        "value": 2660202622.91006,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "KG",
+            "value": "Kyrgyz Republic"
+        },
+        "countryiso3code": "KGZ",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2024",
+        "value": 16502933121.3379,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2023",
+        "value": 15843155731.2552,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2022",
+        "value": 15468785203.7532,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2021",
+        "value": 18827148530.9347,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2020",
+        "value": 18981805250.2424,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2019",
+        "value": 18740561512.5555,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2018",
+        "value": 18141641089.7963,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2017",
+        "value": 17071155481.4994,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2016",
+        "value": 15912501722.6143,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2015",
+        "value": 14426380125.6488,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2014",
+        "value": 13279245886.3854,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2013",
+        "value": 11983252626.5452,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2012",
+        "value": 10192846339.4029,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2011",
+        "value": 8750104617.17303,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2010",
+        "value": 7131771014.70456,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2009",
+        "value": 5836137329.63305,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2008",
+        "value": 5446433157.40114,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2007",
+        "value": 4223152739.04052,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2006",
+        "value": 3455030060.9785,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2005",
+        "value": 2735558734.7379,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2004",
+        "value": 2366398119.86321,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2003",
+        "value": 2023324407.28414,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2002",
+        "value": 1758176653.07746,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2001",
+        "value": 1768619058.34647,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "2000",
+        "value": 1731198022.46763,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1999",
+        "value": 1454430642.44959,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1998",
+        "value": 1280177838.71905,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1997",
+        "value": 1747011857.33107,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1996",
+        "value": 1873671550.34636,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1995",
+        "value": 1763536304.53964,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1994",
+        "value": 1543606345.11684,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1993",
+        "value": 1327748689.88094,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1992",
+        "value": 1127806944.61513,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1991",
+        "value": 1028087972.31085,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1990",
+        "value": 865559879.400406,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1989",
+        "value": 714046821.093797,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1988",
+        "value": 598961269.297879,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1987",
+        "value": 1087273103.69639,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1986",
+        "value": 1776842097.16343,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1985",
+        "value": 2366666615.55556,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1984",
+        "value": 1757142855.91837,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LA",
+            "value": "Lao PDR"
+        },
+        "countryiso3code": "LAO",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2024",
+        "value": 43684254432.3609,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2023",
+        "value": 42779550936.838,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2022",
+        "value": 38003198508.9107,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2021",
+        "value": 38183326784.9335,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2020",
+        "value": 33379927434.6149,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2019",
+        "value": 33099503950.847,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2018",
+        "value": 33247935477.3576,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2017",
+        "value": 29391059767.4259,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2016",
+        "value": 27117105059.5075,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2015",
+        "value": 26344565876.8902,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2014",
+        "value": 30277203767.4058,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2013",
+        "value": 29152128167.8438,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2012",
+        "value": 27116149948.6683,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2011",
+        "value": 26575547900.8247,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2010",
+        "value": 23468324572.3343,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2009",
+        "value": 25691530442.035,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2008",
+        "value": 34135200994.0067,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2007",
+        "value": 29420499247.7089,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2006",
+        "value": 20434922247.3037,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2005",
+        "value": 16306935905.4138,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2004",
+        "value": 13827070378.5612,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2003",
+        "value": 11244337719.8377,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2002",
+        "value": 9249030241.01864,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2001",
+        "value": 8190888739.6463,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "2000",
+        "value": 7761252607.18424,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1999",
+        "value": 7324192889.74297,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1998",
+        "value": 6974112951.26891,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1997",
+        "value": 6349481006.53278,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1996",
+        "value": 5799465288.41246,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1995",
+        "value": 5608208784.9401,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1994",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1993",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1992",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1991",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1990",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1989",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1988",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1987",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1986",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1985",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1984",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1983",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1982",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1981",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1980",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1979",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1978",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1977",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1976",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1975",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1974",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1973",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1972",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1971",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1970",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1969",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1968",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1967",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1966",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1965",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1964",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1963",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1962",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1961",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LV",
+            "value": "Latvia"
+        },
+        "countryiso3code": "LVA",
+        "date": "1960",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LB",
+            "value": "Lebanon"
+        },
+        "countryiso3code": "LBN",
+        "date": "2025",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LB",
+            "value": "Lebanon"
+        },
+        "countryiso3code": "LBN",
+        "date": "2024",
+        "value": null,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LB",
+            "value": "Lebanon"
+        },
+        "countryiso3code": "LBN",
+        "date": "2023",
+        "value": 20078620356.9931,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LB",
+            "value": "Lebanon"
+        },
+        "countryiso3code": "LBN",
+        "date": "2022",
+        "value": 20992421948.8081,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LB",
+            "value": "Lebanon"
+        },
+        "countryiso3code": "LBN",
+        "date": "2021",
+        "value": 23131941556.7843,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    },
+    {
+        "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+        },
+        "country": {
+            "id": "LB",
+            "value": "Lebanon"
+        },
+        "countryiso3code": "LBN",
+        "date": "2020",
+        "value": 31712128253.7961,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]
