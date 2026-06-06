@@ -10,7 +10,31 @@ class PostgresLoader:
         self.conn = None
 
     def connect(self):
+        """Connect to PostgreSQL, creating the database if it doesn't exist."""
         try:
+            # 1. First, connect to the default 'postgres' management database
+            admin_conn = psycopg2.connect(
+                host=self.db_config['host'],
+                port=self.db_config['port'],
+                database="postgres",  # Default system DB
+                user=self.db_config['user'],
+                password="postgres"
+            )
+            admin_conn.autocommit = True
+            
+            # 2. Check if 'economic_raw' already exists
+            with admin_conn.cursor() as cursor:
+                cursor.execute(f"SELECT 1 FROM pg_catalog.pg_database WHERE datname = '{self.db_config['name']}';")
+                exists = cursor.fetchone()
+                
+                # If it doesn't exist, create it programmatically
+                if not exists:
+                    print(f"Database '{self.db_config['name']}' not found. Creating it now...")
+                    cursor.execute(f"CREATE DATABASE {self.db_config['name']};")
+            
+            admin_conn.close()
+
+            # 3. Now connect to our freshly ensured target database
             self.conn = psycopg2.connect(
                 host=self.db_config['host'],
                 port=self.db_config['port'],
@@ -19,7 +43,14 @@ class PostgresLoader:
                 password="postgres"
             )
             self.conn.autocommit = True
-            print("Successfully connected to PostgreSQL container.")
+            print(f"Successfully connected to PostgreSQL database: {self.db_config['name']}")
+
+            # ADD THESE DIAGNOSTIC LINES:
+            print("--- EXTRA CONNECTION DETAILS ---")
+            print(f"DSN: {self.conn.dsn}")
+            print(f"Server Version: {self.conn.server_version}")
+            print("--------------------------------")
+            
         except Exception as e:
             print(f"Database connection failed: {e}")
             raise e
