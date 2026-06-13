@@ -12,12 +12,12 @@ class DataLakeOrganizer:
         
         try:
             conn = psycopg2.connect(
-                host=self.db_config['host'],
-                port=self.db_config['port'],
-                database=self.db_config['name'],
-                user=self.db_config['user'],
-                password=self.db_config['password']
-            )
+                host=self.db_config.get('host', 'localhost'),
+                port=self.db_config.get('port', 5442),
+                database=self.db_config.get('name', 'economic_raw'),
+                user=self.db_config.get('user', 'postgres'),
+                password=self.db_config.get('password', 'postgres')
+)
             print("Successfully extracted data from Postgres landing table.")
         except Exception as e:
             print(f"Failed to connect to database: {e}")
@@ -32,7 +32,6 @@ class DataLakeOrganizer:
             return
 
         df['date_year'] = df['date_year'].astype(int)
-        df['value'] = pd.to_numeric(df['value'], errors='coerce')
 
         print(f"Organizing and partitioning {len(df)} records into Parquet format...")
         

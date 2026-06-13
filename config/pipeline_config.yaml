@@ -15,3 +15,4 @@ database:
   port: 5442
   name: "economic_raw"
   user: "postgres"
+  password: "postgres"

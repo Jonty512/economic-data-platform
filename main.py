@@ -1,7 +1,7 @@
 import yaml
-from src.extractor import DataExtractor
-from src.loader import DataLoader
-from src.transformer import DataLakeOrganizer  # New import
+from src.extractor import WorldBankExtractor
+from src.loader import PostgresLoader
+from src.transformer import DataLakeOrganizer
 
 def load_config():
     with open("config/pipeline_config.yaml", "r") as f:
@@ -10,11 +10,16 @@ def load_config():
 def main():
     config = load_config()
     
-    extractor = DataExtractor(config['api'])
-    raw_files = extractor.fetch_all_data()
+    extractor = WorldBankExtractor(config)
     
-    loader = DataLoader(config['database'])
-    loader.load_files_to_postgres(raw_files)
+    print("Fetching raw data from API...")
+    raw_file_path = extractor.fetch_indicator('NY.GDP.MKTP.CD')
+    
+    loader = PostgresLoader(config) 
+    loader.connect()
+    
+    if raw_file_path and loader.conn:
+        loader.load_files_to_postgres([raw_file_path])
     
     transformer = DataLakeOrganizer(config['database'])
     transformer.process_landing_to_parquet()
